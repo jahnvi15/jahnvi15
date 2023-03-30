@@ -1,27 +1,31 @@
-# Hello, I'm [Your Name] 👋
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Diwakar!
 
-[![Header](https://raw.githubusercontent.com/jahnvi15/jahnvi15/main/assets/header.gif)](https://github.com/jahnvi15/jahnvi15)
+<a href="https://www.linkedin.com/in/jahnvisrivastav/">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
+<a href="https://twitter.com/srivastavjahnvi">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
 
-I'm a [your job title], passionate about [your interests]. In my free time, I like to work on personal projects and learn new technologies.
 
-## Skills
+<br />
 
-- C++
-- React
-- Python
+### About Me 🚀
+🎓 I’m an Open-Source enthusiast & a sophomore pursuing my Bachelors in Information and Technology. </br>
+👨‍💻  I am passionate about Web Dev, machine Learning & I enjoy learning new things. </br>
 
-## Projects
 
-- 
-- [Project 2](link)
-- [Project 3](link)
+<br />
 
-## Contact me
+## 🧰 Languages and Tools:
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cpp" height="70" style="vertical-align:top; margin:4px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML" height="70" style="vertical-align:top; margin:4px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS" height="70" style="vertical-align:top; margin:4px"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="PYTHON" height="70" style="vertical-align:top; margin:4px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" height="70" style="vertical-align:top; margin:4px"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby" height="70" style="vertical-align:top; margin:4px">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Gcloud" height="70" style="vertical-align:top; margin:4px">
+</p>
 
-[LinkedIn](https://www.linkedin.com/in/jahnvisrivastav/)
-[Twitter](https://twitter.com/[yourusername])
-[Website](https://jahnvi15.github.io/JahnviSrivastavPortfolio/)
-
-### Animation
-
-![Animation](https://assets3.lottiefiles.com/packages/lf20_KOnvWL.json)
+<br />
